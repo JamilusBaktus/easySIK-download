@@ -1,6 +1,6 @@
-# easySIK â€“ Download
+# easySIK – Download
 
-easySIK sichert die lokalen Daten und Einstellungen eines Windows-PCs auf einen Server oder einen USB-DatentrÃ¤ger und spielt sie auf einem neuen PC wieder zurÃ¼ck, z. B. beim Austausch eines Rechners.
+easySIK sichert die lokalen Daten und Einstellungen eines Windows-PCs auf einen Server oder einen USB-Datenträger und spielt sie auf einem neuen PC wieder zurück, z. B. beim Austausch eines Rechners.
 
 Hier liegt nur das fertige Programm, kein Quelltext.
 
@@ -16,10 +16,10 @@ Fester Link, der immer auf die aktuelle Version zeigt (ohne Anmeldung):
 https://github.com/JamilusBaktus/easySIK-download/releases/latest/download/easySIK.exe
 ```
 
-Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySIK-1.4.2.exe`) unter [Releases](https://github.com/JamilusBaktus/easySIK-download/releases/latest). Ã„ltere Versionen werden hier nicht aufbewahrt.
+Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySIK-1.4.2.exe`) unter [Releases](https://github.com/JamilusBaktus/easySIK-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
 
 ## Start
 
 - Eine einzelne Datei, keine Installation.
 - Startet mit Adminrechten (Windows fragt nach).
-- BenÃ¶tigt Windows 10/11 (64 Bit) mit WebView2, bei Windows 11 vorhanden.
+- Benötigt Windows 10/11 (64 Bit) mit WebView2, bei Windows 11 vorhanden.
