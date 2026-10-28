@@ -4,7 +4,7 @@ easySIK sichert die lokalen Daten und Einstellungen eines Windows-PCs auf einen 
 
 Hier liegt nur das fertige Programm, kein Quelltext.
 
-**Aktuelle Version: 1.4.2**
+**Aktuelle Version: 1.4.3**
 
 ## Immer die neueste Version
 
@@ -16,7 +16,7 @@ Fester Link, der immer auf die aktuelle Version zeigt (ohne Anmeldung):
 https://github.com/JamilusBaktus/easySIK-download/releases/latest/download/easySIK.exe
 ```
 
-Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySIK-1.4.2.exe`) unter [Releases](https://github.com/JamilusBaktus/easySIK-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
+Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySIK-1.4.3.exe`) unter [Releases](https://github.com/JamilusBaktus/easySIK-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
 
 ## Start
 
