@@ -1,28 +1,18 @@
-# easySIK – Download
+# easySIK
 
-**Rechner tauschen, ohne etwas zu vergessen.** easySIK sichert die lokalen Daten und Einstellungen eines alten Rechners auf eine Netzwerkfreigabe oder ein USB-Laufwerk und spielt sie auf dem neuen Rechner wieder ein. Danach führt es durch die Nacharbeiten und löscht die Sicherung wieder.
+Windows-Programm für den Tausch eines Rechners. easySIK sichert die lokalen Daten und Einstellungen des alten Rechners auf eine Netzwerkfreigabe oder ein USB-Laufwerk und spielt sie auf dem neuen Rechner wieder ein. Danach führt es durch die Nacharbeiten, erstellt einen Übergabebericht und löscht die Sicherung.
 
-Mit dabei: Ordner und Dateien, Browser (Lesezeichen, Passwörter), Thunderbird, Drucker und Scanner, Netzwerk und Netzlaufwerke, Programme sowie SQL-Datenbanken bei Server und Hauptrechner.
-
-**Aktuelle Version: 1.8.6** · Windows 10/11 (64 Bit) · eine EXE, keine Installation
+**Aktuelle Version: 1.8.6**
 
 ## Download
 
-**[easySIK.exe herunterladen](https://github.com/JamilusBaktus/easySIK-download/releases/latest/download/easySIK.exe)**
+- **[easySIK.exe](https://github.com/JamilusBaktus/easySIK-download/releases/latest/download/easySIK.exe)** – auf dem alten Rechner zum Sichern und auf dem neuen zum Zurücksichern starten.
 
-Fester Link auf die neueste Version (ohne Anmeldung):
-
-```
-https://github.com/JamilusBaktus/easySIK-download/releases/latest/download/easySIK.exe
-```
-
-Mit Versionsnummer im Namen (`easySIK-1.8.6.exe`) unter [Releases](https://github.com/JamilusBaktus/easySIK-download/releases/latest). Hier liegt nur die neueste Version, kein Quelltext.
+Der Link zeigt immer auf die neueste Version. Dieselbe Datei mit Versionsnummer im Namen (`easySIK-1.8.6.exe`) steht unter [Releases](https://github.com/JamilusBaktus/easySIK-download/releases/latest).
 
 ## Start
 
-1. EXE auf dem alten Rechner starten und die Adminabfrage bestätigen.
-2. **Sichern:** Art des Rechners wählen, Speicherort angeben, Bereiche auswählen, „Sicherung starten“.
-3. EXE auf dem neuen Rechner starten, **Zurücksichern** wählen und die Sicherung aussuchen.
-4. **Nacharbeiten** abhaken, Übergabebericht ablegen, Sicherung löschen.
-
-Fehlt WebView2, installiert easySIK es beim Start.
+- Eine einzelne Datei, keine Installation.
+- Windows 10/11 (64 Bit), Adminrechte (Windows fragt nach).
+- Fehlt WebView2, installiert easySIK es beim Start.
+- easySIK meldet beim Start, wenn es eine neue Version gibt.
